@@ -37,7 +37,7 @@ gcc serie_pthreads.cpp -o serie_pthreads -pthread
 ```
 ./fibonacci_pthreads
 ./serie_pthreads
-
+```
 # Explicación Técnica
 ### Uso de Pthreads
 Pthreads permite ejecutar múltiples hilos concurrentemente, lo cual acelera el cálculo al dividir las tareas entre los hilos.
